@@ -1,0 +1,2 @@
+ต้อง symlink storage กับ public เพื่อโชว์รูปหน้าเว็บ และไฟล์
+php artisan storage:link
